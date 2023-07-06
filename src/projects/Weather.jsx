@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import Img from "./weather imge.jpg"
+import Img from "./image.jpg"
 
 let Weather=()=>{
 
